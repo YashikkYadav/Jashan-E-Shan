@@ -5814,7 +5814,7 @@ hr + h2:before {
 #qodef-page-mobile-header {
   position: relative;
   display: none;
-  height: 70px;
+  height: 90px;
   z-index: 100;
 }
 #qodef-page-mobile-header .qodef-mobile-header-logo-link {
